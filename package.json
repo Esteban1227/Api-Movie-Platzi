@@ -1,0 +1,20 @@
+{
+  "name": "api-movie-platzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban1227/Api-Movie-Platzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban1227/Api-Movie-Platzi/issues"
+  },
+  "homepage": "https://github.com/Esteban1227/Api-Movie-Platzi#readme"
+}
